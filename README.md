@@ -6,7 +6,9 @@ Introduction
 
 Welcome to the E-Commerce Application -- a dynamic and feature-rich online shopping platform built with cutting-edge technologies. This project showcases a meticulously designed and fully functional e-commerce application, demonstrating proficiency in front-end development, back-end integration, and secure payment processing.
 
-![E-Commerce App Screenshot](https://chat.openai.com/screenshot.png)
+![E-Commerce App Screenshot](img1.PNG)
+![E-Commerce App Screenshot](img2.png)
+![E-Commerce App Screenshot](img3.jpg)
 
 Features
 --------
